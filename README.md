@@ -1,5 +1,15 @@
 <h1 align="center">Hi , I'm Frank Jimenez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div>
+  <p>
+    I am a passionate web developer with intermediate skills in key technologies such as JavaScript, TypeScript, Node.js, NestJS, React, and experience with databases like MySQL, SQLite, and MongoDB. I also have experience with Docker and Kubernetes for container management and orchestration. My focus is on building scalable, robust, and efficient applications, applying best software development practices.
 
+In addition to my technical profile, I stand out for my teamwork skills, collaboration, and creative problem-solving. I consider myself a proactive person, capable of contributing innovative ideas that foster a positive work environment.
+
+I am in the process of improving my English level (currently intermediate-low), with daily practice to move towards fluency. My goal is to establish myself as a full-stack developer, with a preference for specialization in back-end.
+
+I am committed to continuous learning and open to facing new challenges in the dynamic world of software development.
+  </p>
+</div>
 <div>
 <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
