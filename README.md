@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 ### 🧰 Frameworks and Libraries
 <div style={{ display: 'flex' }}>
 <img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB">
-
+<img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white">
+  
 </div>
 
 ### 🗄️ Databases and Cloud Hosting
