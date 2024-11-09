@@ -16,14 +16,14 @@
 <div style={{ display: 'flex' }}>
 <img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB">
 <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white">
-<img alt="Express" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white">
+<img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white">
+<img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-FF5A00.svg?logo=typeorm&logoColor=white">
 </div>
 
 ### 🗄️ Databases
 <div style={{ display: 'flex' }}>
 <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
 <img alt="SQL" src="https://img.shields.io/badge/NoSQL-4285F4.svg?logo=databricks&logoColor=white">
-<img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-FF5A00.svg?logo=typeorm&logoColor=white">
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white">
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
