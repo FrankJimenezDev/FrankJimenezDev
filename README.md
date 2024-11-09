@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
 <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white">
-<img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-FF5A00.svg?logo=typeorm&logoColor=white">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white">
 </div>
 
 ### 🧰 Frameworks and Libraries
@@ -37,15 +37,13 @@ Here are some ideas to get you started:
 <div style={{ display: 'flex' }}>
 <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
 <img alt="SQL" src="https://img.shields.io/badge/NoSQL-4285F4.svg?logo=databricks&logoColor=white">
+<img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-FF5A00.svg?logo=typeorm&logoColor=white">
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white">
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
-
-
 </div>
 
 ### 💻 Software and Tools
 <div style={{ display: 'flex' }}>
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white">
 </div>
