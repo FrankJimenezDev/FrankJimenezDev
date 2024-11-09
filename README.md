@@ -35,8 +35,12 @@ Here are some ideas to get you started:
 
 ### 🗄️ Databases and Cloud Hosting
 <div style={{ display: 'flex' }}>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
-   <img alt="SQL" src="https://img.shields.io/badge/NoSQL-4285F4.svg?logo=databricks&logoColor=white">
+<img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
+<img alt="SQL" src="https://img.shields.io/badge/NoSQL-4285F4.svg?logo=databricks&logoColor=white">
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white">
+<img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white">
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
+
 
 </div>
 
