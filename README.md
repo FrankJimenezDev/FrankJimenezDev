@@ -25,6 +25,15 @@ Here are some ideas to get you started:
 <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
 <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
 </div>
+
 ### 🧰 Frameworks and Libraries
+<div style={{ display: 'flex' }}>
+</div>
+
 ### 🗄️ Databases and Cloud Hosting
+<div style={{ display: 'flex' }}>
+</div>
+
 ### 💻 Software and Tools
+<div style={{ display: 'flex' }}>
+</div>
