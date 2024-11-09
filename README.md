@@ -46,4 +46,7 @@ Here are some ideas to get you started:
 ### 💻 Software and Tools
 <div style={{ display: 'flex' }}>
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
+<img alt="MySQL Workbench" src="https://img.shields.io/badge/MySQL_Workbench-4479A1.svg?logo=mysql&logoColor=white">
+<img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-372923.svg?logo=dbeaver&logoColor=white">
+<img alt="MongoDB Compass" src="https://img.shields.io/badge/MongoDB_Compass-47A248.svg?logo=mongodb&logoColor=white">
 </div>
