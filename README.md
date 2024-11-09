@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 <div style={{ display: 'flex' }}>
 <img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB">
 <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white">
+<img alt="Express" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white">
+
   
 </div>
 
