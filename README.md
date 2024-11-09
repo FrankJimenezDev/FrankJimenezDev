@@ -49,4 +49,7 @@ Here are some ideas to get you started:
 <img alt="MySQL Workbench" src="https://img.shields.io/badge/MySQL_Workbench-4479A1.svg?logo=mysql&logoColor=white">
 <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-372923.svg?logo=dbeaver&logoColor=white">
 <img alt="MongoDB Compass" src="https://img.shields.io/badge/MongoDB_Compass-47A248.svg?logo=mongodb&logoColor=white">
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white">
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
+<img alt="GitLab" src="https://img.shields.io/badge/GitLab-FCA121.svg?logo=gitlab&logoColor=white">
 </div>
