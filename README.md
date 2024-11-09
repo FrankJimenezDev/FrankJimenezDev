@@ -53,5 +53,6 @@ Here are some ideas to get you started:
 <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white">
 <img alt="Eraser.io" src="https://img.shields.io/badge/Eraser.io-4B9F8A.svg?logo=eraser&logoColor=white">
 <img alt="Excalidraw" src="https://img.shields.io/badge/Excalidraw-1A1A1A.svg?logo=excalidraw&logoColor=white">
-
+<img alt="UML" src="https://img.shields.io/badge/UML-1D1D1B.svg?logo=uml&logoColor=white">
+<img alt="Visual Paradigm Online" src="https://img.shields.io/badge/Visual_Paradigm_Online-0095D9.svg?logo=visualparadigm&logoColor=white">
 </div>
