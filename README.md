@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 <img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB">
 <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white">
 <img alt="Express" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white">
-
-  
 </div>
 
 ### 🗄️ Databases
@@ -52,4 +50,8 @@ Here are some ideas to get you started:
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white">
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
 <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FCA121.svg?logo=gitlab&logoColor=white">
+<img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white">
+<img alt="Eraser.io" src="https://img.shields.io/badge/Eraser.io-4B9F8A.svg?logo=eraser&logoColor=white">
+<img alt="Excalidraw" src="https://img.shields.io/badge/Excalidraw-1A1A1A.svg?logo=excalidraw&logoColor=white">
+
 </div>
