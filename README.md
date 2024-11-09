@@ -1,5 +1,6 @@
 <h1 align="center">Hi , I'm Frank Jimenez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<div>
 <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
 ### 👨‍💻 Programming Languages
@@ -42,4 +43,5 @@
 <img alt="Excalidraw" src="https://img.shields.io/badge/Excalidraw-1A1A1A.svg?logo=excalidraw&logoColor=white">
 <img alt="UML" src="https://img.shields.io/badge/UML-1D1D1B.svg?logo=uml&logoColor=white">
 <img alt="Visual Paradigm Online" src="https://img.shields.io/badge/Visual_Paradigm_Online-0095D9.svg?logo=visualparadigm&logoColor=white">
+</div>
 </div>
