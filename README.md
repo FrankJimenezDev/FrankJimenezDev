@@ -20,7 +20,6 @@ I am committed to continuous learning and open to facing new challenges in the d
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
 <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white">
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white">
-<img alt="Zubstans" src="https://img.shields.io/badge/Zubstans-4B0082.svg?logo=data:image/svg+xml;base64,&logoColor=white">
 </div>
 
 ### 🧰 Frameworks and Libraries
@@ -54,5 +53,6 @@ I am committed to continuous learning and open to facing new challenges in the d
 <img alt="Excalidraw" src="https://img.shields.io/badge/Excalidraw-1A1A1A.svg?logo=excalidraw&logoColor=white">
 <img alt="UML" src="https://img.shields.io/badge/UML-1D1D1B.svg?logo=uml&logoColor=white">
 <img alt="Visual Paradigm Online" src="https://img.shields.io/badge/Visual_Paradigm_Online-0095D9.svg?logo=visualparadigm&logoColor=white">
+<img alt="Zubstans" src="https://img.shields.io/badge/Zubstans-purple.svg">
 </div>
 </div>
