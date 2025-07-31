@@ -20,6 +20,7 @@ I am committed to continuous learning and open to facing new challenges in the d
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
 <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white">
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white">
+<img alt="Zubstans" src="https://img.shields.io/badge/Zubstans-4B0082.svg?logo=data:image/svg+xml;base64,&logoColor=white">
 </div>
 
 ### 🧰 Frameworks and Libraries
